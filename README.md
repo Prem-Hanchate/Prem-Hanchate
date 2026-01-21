@@ -28,7 +28,7 @@
 ┌──(root💀kali)-[~/profile]
 └─$ cat about.txt
 
-> I am <span style="color: red;">**Prem Hanchate**</span>, a penetration tester and security researcher driven by curiosity 
+> I am *Prem Hanchate*, a penetration tester and security researcher driven by curiosity 
 > and the art of breaking systems ethically. My journey into cyber security began with understanding 
 > how systems fail and evolved into defending them.
 
@@ -39,6 +39,13 @@
 > Currently exploring: Advanced exploitation techniques, threat intelligence, and security automation.
 ```
 <br>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Prem-Hanchate/Prem-Hanchate/output/snake.svg" alt="Snake animation" />
+</div>
+
+<br>
+
 
 ## 📡 **Connect With Me**
 
@@ -97,14 +104,6 @@ PORT      STATE     SERVICE
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Prem-Hanchate&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" width="100%"/>
-</div>
-
-<br>
-
-## 📈 **Attack Surface Monitoring**
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Prem-Hanchate/Prem-Hanchate/output/snake.svg" alt="Snake animation" />
 </div>
 
 <br>
