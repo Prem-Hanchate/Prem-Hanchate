@@ -75,62 +75,6 @@ PORT      STATE     SERVICE
 
 <br>
 
-## 🔐 **Cyber Security Tools are :-**
-
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=flat-square&logo=nmap&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-![John the Ripper](https://img.shields.io/badge/John_the_Ripper-CC0000?style=flat-square)
-![Hashcat](https://img.shields.io/badge/Hashcat-8B0000?style=flat-square)
-![SQLMap](https://img.shields.io/badge/SQLMap-CC0000?style=flat-square)
-![Aircrack-ng](https://img.shields.io/badge/Aircrack--ng-00599C?style=flat-square)
-![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-0080FF?style=flat-square)
-
-</details>
-
-<details open>
-<summary><b>🛡️ Defensive Security & Blue Team</b></summary>
-<br>
-
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white)
-![Snort](https://img.shields.io/badge/Snort-EE3124?style=flat-square)
-![Suricata](https://img.shields.io/badge/Suricata-FF6600?style=flat-square)
-![OSSEC](https://img.shields.io/badge/OSSEC-4B275F?style=flat-square)
-![Wazuh](https://img.shields.io/badge/Wazuh-005571?style=flat-square)
-![Fail2Ban](https://img.shields.io/badge/Fail2Ban-FF0000?style=flat-square)
-![ClamAV](https://img.shields.io/badge/ClamAV-CC0000?style=flat-square)
-
-</details>
-
-<details open>
-<summary><b>🧠 Scripting & Automation</b></summary>
-<br>
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)
-
-</details>
-
-<details open>
-<summary><b>🔎 OSINT & Reconnaissance</b></summary>
-<br>
-
-![Maltego](https://img.shields.io/badge/Maltego-1A73E8?style=flat-square)
-![theHarvester](https://img.shields.io/badge/theHarvester-00CC00?style=flat-square)
-![Recon-ng](https://img.shields.io/badge/Recon--ng-000000?style=flat-square)
-![Shodan](https://img.shields.io/badge/Shodan-E21A1A?style=flat-square&logo=shodan&logoColor=white)
-![SpiderFoot](https://img.shields.io/badge/SpiderFoot-4B0082?style=flat-square)
-![Amass](https://img.shields.io/badge/Amass-0080FF?style=flat-square)
-
-</details>
-
-
 ## 📊 **Threat Intelligence Dashboard**
 
 <div align="center">
@@ -189,6 +133,66 @@ class EthicalHacker:
 ```
 
 </div>
+
+## 🔐 **Cyber Security Tools are :-**
+
+
+<details open>
+<summary><b>🛡️ Offensive Security & Red Team</b></summary>
+<br>
+
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=flat-square&logo=nmap&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![John the Ripper](https://img.shields.io/badge/John_the_Ripper-CC0000?style=flat-square)
+![Hashcat](https://img.shields.io/badge/Hashcat-8B0000?style=flat-square)
+![SQLMap](https://img.shields.io/badge/SQLMap-CC0000?style=flat-square)
+![Aircrack-ng](https://img.shields.io/badge/Aircrack--ng-00599C?style=flat-square)
+![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-0080FF?style=flat-square)
+
+</details>
+
+<details open>
+<summary><b>🛡️ Defensive Security & Blue Team</b></summary>
+<br>
+
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white)
+![Snort](https://img.shields.io/badge/Snort-EE3124?style=flat-square)
+![Suricata](https://img.shields.io/badge/Suricata-FF6600?style=flat-square)
+![OSSEC](https://img.shields.io/badge/OSSEC-4B275F?style=flat-square)
+![Wazuh](https://img.shields.io/badge/Wazuh-005571?style=flat-square)
+![Fail2Ban](https://img.shields.io/badge/Fail2Ban-FF0000?style=flat-square)
+![ClamAV](https://img.shields.io/badge/ClamAV-CC0000?style=flat-square)
+
+</details>
+
+<details open>
+<summary><b>🧠 Scripting & Automation</b></summary>
+<br>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>🔎 OSINT & Reconnaissance</b></summary>
+<br>
+
+![Maltego](https://img.shields.io/badge/Maltego-1A73E8?style=flat-square)
+![theHarvester](https://img.shields.io/badge/theHarvester-00CC00?style=flat-square)
+![Recon-ng](https://img.shields.io/badge/Recon--ng-000000?style=flat-square)
+![Shodan](https://img.shields.io/badge/Shodan-E21A1A?style=flat-square&logo=shodan&logoColor=white)
+![SpiderFoot](https://img.shields.io/badge/SpiderFoot-4B0082?style=flat-square)
+![Amass](https://img.shields.io/badge/Amass-0080FF?style=flat-square)
+
+</details>
 
 <br>
 
