@@ -28,8 +28,9 @@
 ┌──(root💀kali)-[~/profile]
 └─$ cat about.txt
 
-> Penetration tester and security researcher driven by curiosity and the art of breaking systems ethically.
-> My journey into cyber security began with understanding how systems fail and evolved into defending them.
+> I am <span style="color: red;">**Prem Hanchate**</span>, a penetration tester and security researcher driven by curiosity 
+> and the art of breaking systems ethically. My journey into cyber security began with understanding 
+> how systems fail and evolved into defending them.
 
 > I specialize in identifying vulnerabilities before adversaries do, automating security workflows,
 > and bridging the gap between offensive and defensive security operations.
