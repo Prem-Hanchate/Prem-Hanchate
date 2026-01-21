@@ -4,7 +4,7 @@
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&random=false&width=800&lines=Ethical+Hacker+%7C+Penetration+Tester;Security+Researcher+%7C+Red+Team+Operator;Threat+Hunter+%7C+Blue+Team+Defender;Automation+Enthusiast+%7C+CTF+Player)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&random=false&width=800&lines=Learning+Cyber+Security+%7C+Security+Enthusiast;Aspiring+Ethical+Hacker+%7C+Penetration+Tester;Security+Tools+Explorer+%7C+CTF+Player;Learning+Red+Team+%26+Blue+Team+Operations)](https://git.io/typing-svg)
   
 </div>
 
@@ -28,15 +28,30 @@
 ┌──(root💀kali)-[~/profile]
 └─$ cat about.txt
 
-> Penetration tester and security researcher driven by curiosity and the art of breaking systems ethically.
-> My journey into cyber security began with understanding how systems fail and evolved into defending them.
+> Hi, I'm **PREM HANCHATE** - A passionate cyber security learner driven by curiosity and the desire
+> to understand how systems work and how to protect them.
 
-> I specialize in identifying vulnerabilities before adversaries do, automating security workflows,
-> and bridging the gap between offensive and defensive security operations.
+> My journey into cyber security is focused on learning penetration testing, vulnerability assessment,
+> and exploring both offensive and defensive security techniques.
 
-> My mission: Make the digital world more secure, one exploit at a time.
-> Currently exploring: Advanced exploitation techniques, threat intelligence, and security automation.
+> Currently learning: Security tools, exploitation techniques, threat intelligence, and CTF challenges.
+> My mission: Continuously improve my skills to become a proficient security professional.
+> Always exploring new security concepts and hands-on practice with real-world scenarios.
 ```
+<br>
+
+## 🚀 **Security Projects**
+
+<div align="center">
+
+| 🔐 Project | 💡 Description | 🛠️ Tech Stack |
+|:-----------|:---------------|:---------------|
+| **[Security-Lab](https://github.com/Prem-Hanchate/Security-Lab)** | Comprehensive security testing lab with various penetration testing tools | Python, Security Tools |
+| **[PassGuardian](https://github.com/Prem-Hanchate/PassGuardian)** | Password strength analyzer and security validator | HTML, CSS, JavaScript |
+| **[Advanced-Google-Operators](https://github.com/Prem-Hanchate/Advanced-Google-Operators)** | Advanced OSINT tool using Google dorking techniques for reconnaissance | Python, OSINT |
+| **[HackerOne Reports](https://github.com/Prem-Hanchate/hackerone-reports)** | Collection of top disclosed vulnerability reports from HackerOne | Python, Security Research |
+
+</div>
 
 <br>
 
@@ -127,16 +142,30 @@ Threat Intelligence:
 
 <br>
 
-## 🚀 **Security Projects**
+## 📈 **Attack Surface Monitoring**
 
 <div align="center">
+  <img src="https://raw.githubusercontent.com/Prem-Hanchate/Prem-Hanchate/output/snake.svg" alt="Snake animation" />
+</div>
 
-| 🔐 Project | 💡 Description | 🛠️ Tech Stack |
-|:-----------|:---------------|:---------------|
-| **[Security-Lab](https://github.com/Prem-Hanchate/Security-Lab)** | Comprehensive security testing lab with various penetration testing tools | Python, Security Tools |
-| **[PassGuardian](https://github.com/Prem-Hanchate/PassGuardian)** | Password strength analyzer and security validator | HTML, CSS, JavaScript |
-| **[Advanced-Google-Operators](https://github.com/Prem-Hanchate/Advanced-Google-Operators)** | Advanced OSINT tool using Google dorking techniques for reconnaissance | Python, OSINT |
-| **[HackerOne Reports](https://github.com/Prem-Hanchate/hackerone-reports)** | Collection of top disclosed vulnerability reports from HackerOne | Python, Security Research |
+<br>
+
+## 📡 **Connect With Me**
+
+<div align="center">
+  
+```bash
+$ nmap -sV --script banner localhost/contact
+```
+
+```
+PORT     STATE    SERVICE
+22/tcp   open     ssh        | GitHub: github.com/Prem-Hanchate
+80/tcp   open     http       | LinkedIn: linkedin.com/in/prem-h-036304278
+443/tcp  open     https      | Email: hanchateprem@gmail.com
+3389/tcp filtered discord    | Discord: prem07837
+8080/tcp open     instagram  | Instagram: @hanchate_prem
+```
 
 </div>
 
@@ -163,53 +192,6 @@ Threat Intelligence:
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Prem-Hanchate&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" width="100%"/>
-</div>
-
-<br>
-
-## 📈 **Attack Surface Monitoring**
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Prem-Hanchate/Prem-Hanchate/output/snake.svg" alt="Snake animation" />
-</div>
-
-<br>
-
-## 💼 **Certifications & Training**
-
-```ascii
-┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-┃  🎓 Currently Pursuing:                           ┃
-┃     • OSCP (Offensive Security Certified Pro)     ┃
-┃     • CEH (Certified Ethical Hacker)              ┃
-┃     • CompTIA Security+                           ┃
-┃                                                    ┃
-┃  📚 Continuous Learning:                          ┃
-┃     • TryHackMe | HackTheBox | OverTheWire        ┃
-┃     • Bug Bounty Programs                         ┃
-┃     • CTF Competitions                            ┃
-┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
-```
-
-<br>
-
-## 📡 **Connect With Me**
-
-<div align="center">
-  
-```bash
-$ nmap -sV --script banner localhost/contact
-```
-
-```
-PORT     STATE    SERVICE
-22/tcp   open     ssh        | GitHub: github.com/Prem-Hanchate
-80/tcp   open     http       | LinkedIn: linkedin.com/in/prem-h-036304278
-443/tcp  open     https      | Email: hanchateprem@gmail.com
-3389/tcp filtered discord    | Discord: prem07837
-8080/tcp open     instagram  | Instagram: @hanchate_prem
-```
-
 </div>
 
 <br>
@@ -261,6 +243,7 @@ class EthicalHacker:
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
   
   ### 🔒 *"The quieter you become, the more you can hear"* 🔒
+  ### 🔒 *"Every Point of Contact, is the Point of Attack"* 🔒
   
   <sub>💀 Security is not a product, but a process | Stay curious, stay secure 💀</sub>
   
