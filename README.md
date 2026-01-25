@@ -78,7 +78,8 @@ PORT      STATE     SERVICE
 | **[PassGuardian](https://github.com/Prem-Hanchate/PassGuardian)** | Password strength analyzer and security validator | HTML, CSS, JavaScript |
 | **[Advanced-Google-Operators](https://github.com/Prem-Hanchate/Advanced-Google-Operators)** | Advanced OSINT tool using Google dorking techniques for reconnaissance | Python, OSINT |
 | **[HackerOne Reports](https://github.com/Prem-Hanchate/hackerone-reports)** | Collection of top disclosed vulnerability reports from HackerOne | Python, Security Research |
-| **[OSINT](https://github.com/Prem-Hanchate/OSINT)** |  Information Gathering Tool |
+| **[Port Scanning ](https://github.com/Prem-Hanchate/Port_Scanning)** | Host discovery, OS detection, and comprehensive port scanning with automated report generation.  | Python + Bash |
+| **[OSINT](https://github.com/Prem-Hanchate/OSINT)** |  Information Gathering Tool | Python + Bash |
 
 </div>
 
