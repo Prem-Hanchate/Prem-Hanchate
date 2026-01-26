@@ -79,8 +79,8 @@ PORT      STATE     SERVICE
 | **[Advanced-Google-Operators](https://github.com/Prem-Hanchate/Advanced-Google-Operators)** | Advanced OSINT tool using Google dorking techniques for reconnaissance | Python, OSINT |
 | **[HackerOne Reports](https://github.com/Prem-Hanchate/hackerone-reports)** | Collection of top disclosed vulnerability reports from HackerOne | Python, Security Research |
 | **[Port Scanning ](https://github.com/Prem-Hanchate/Port_Scanning)** | Host discovery, OS detection, and comprehensive port scanning with automated report generation.  | Python + Bash |
-| **[OSINT](https://github.com/Prem-Hanchate/OSINT)** |  Information Gathering Tool | Python + Bash |
-
+| **[OSINT](https://github.com/Prem-Hanchate/OSINT)** | Information Gathering Tool | Python + Bash |
+| **[Encryption & Decryption Tool](https://github.com/Prem-Hanchate/Encryption_-_Decryption_Tool)** | AES Encryption & Decryption of Text and file | Python |
 </div>
 
 <br>
