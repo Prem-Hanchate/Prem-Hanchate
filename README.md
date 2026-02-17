@@ -119,22 +119,9 @@ PORT      STATE     SERVICE
 <br>
 ---
 
-## 📊 **Threat Intelligence Dashboard**
-
-<div align="center">
-
-### 🎯 **Performance Metrics**
-
-<a href="https://github.com/Prem-Hanchate">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Prem-Hanchate&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&ring_color=00ff41"/>
-</a>
-<a href="https://github.com/Prem-Hanchate">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prem-Hanchate&layout=compact&langs_count=8&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9"/>
-</a>
-
-</div>
-
 ---
+
+## **Threat Intelligence Dashboard**
 
 <div align="center">
 
@@ -150,37 +137,10 @@ PORT      STATE     SERVICE
 
 <div align="center">
 
-### 📈 **Contribution Graph**
+### **Contribution Graph**
 
 <a href="https://github.com/Prem-Hanchate">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Prem-Hanchate&theme=github-compact&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Activity%20Graph" width="95%"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-## 🏆 **GitHub Achievements & Trophies**
-
-<a href="https://github.com/Prem-Hanchate">
-  <img src="https://github-profile-trophy.vercel.app/?username=Prem-Hanchate&theme=matrix&no-frame=true&no-bg=false&column=7&margin-w=5&margin-h=5&title=Stars,Followers,Commits,Repositories,Issues,PullRequest,MultiLanguage" />
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### 📊 **Additional Statistics**
-
-<a href="https://github.com/Prem-Hanchate">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Prem-Hanchate&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&layout=compact" alt="Coding Stats" width="48%"/>
-</a>
-<a href="https://github.com/Prem-Hanchate">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prem-Hanchate&layout=pie&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9" alt="Language Distribution" width="48%"/>
 </a>
 
 </div>
@@ -196,6 +156,7 @@ PORT      STATE     SERVICE
 </div>
 
 <br>
+
 
 
 ## 💭 **Hacker Mindset**
