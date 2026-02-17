@@ -70,17 +70,50 @@ PORT      STATE     SERVICE
 
 ## 🚀 **Security Projects**
 
+## 🚀 **Security & Cybersecurity Projects Portfolio**
+
 <div align="center">
 
-| 🔐 Project | 💡 Description | 🛠️ Tech Stack |
-|:-----------|:---------------|:---------------|
-| **[Security-Lab](https://github.com/Prem-Hanchate/Security-Lab)** | Comprehensive security testing lab with various penetration testing tools | Python, Security Tools |
-| **[PassGuardian](https://github.com/Prem-Hanchate/PassGuardian)** | Password strength analyzer and security validator | HTML, CSS, JavaScript |
-| **[Advanced-Google-Operators](https://github.com/Prem-Hanchate/Advanced-Google-Operators)** | Advanced OSINT tool using Google dorking techniques for reconnaissance | Python, OSINT |
-| **[HackerOne Reports](https://github.com/Prem-Hanchate/hackerone-reports)** | Collection of top disclosed vulnerability reports from HackerOne | Python, Security Research |
-| **[Port Scanning ](https://github.com/Prem-Hanchate/Port_Scanning)** | Host discovery, OS detection, and comprehensive port scanning with automated report generation.  | Python + Bash |
-| **[OSINT](https://github.com/Prem-Hanchate/OSINT)** | Information Gathering Tool | Python + Bash |
-| **[Encryption & Decryption Tool](https://github.com/Prem-Hanchate/Encryption_-_Decryption_Tool)** | AES Encryption & Decryption of Text and file | Python |
+### 🛡️ **Network Security & Monitoring**
+
+| 🔐 Project | 💡 Description | 🛠️ Tech Stack | 🎯 Category |
+|:-----------|:---------------|:---------------|:------------|
+| **[DNS Spoofing Detection Tool](https://github.com/Prem-Hanchate/DNS-Spoofing-Detection-Tool)** | Real-time DNS traffic monitoring and spoofing attack detection with trusted DNS verification | Python, Scapy, dnspython | Network Security |
+| **[Port Scanning](https://github.com/Prem-Hanchate/Port_Scanning)** | Advanced host discovery, OS detection, and comprehensive port scanning with automated report generation | Python, Bash | Network Reconnaissance |
+
+### 🔍 **OSINT & Reconnaissance**
+
+| 🔐 Project | 💡 Description | 🛠️ Tech Stack | 🎯 Category |
+|:-----------|:---------------|:---------------|:------------|
+| **[Advanced Google Operators](https://github.com/Prem-Hanchate/Advanced-Google-Operators)** | Advanced OSINT tool using Google dorking techniques for reconnaissance and information gathering | Python, OSINT | Reconnaissance |
+| **[OSINT](https://github.com/Prem-Hanchate/OSINT)** | Comprehensive information gathering tool for open-source intelligence collection | Python, Bash | OSINT |
+
+### 🔒 **Application Security & Tools**
+
+| 🔐 Project | 💡 Description | 🛠️ Tech Stack | 🎯 Category |
+|:-----------|:---------------|:---------------|:------------|
+| **[Security-Lab](https://github.com/Prem-Hanchate/Security-Lab)** | Comprehensive security testing laboratory with various penetration testing tools and frameworks | Python, Security Tools | Penetration Testing |
+| **[PassGuardian](https://github.com/Prem-Hanchate/PassGuardian)** | Interactive password strength analyzer and security validator with real-time feedback | HTML, CSS, JavaScript | Application Security |
+| **[Encryption & Decryption Tool](https://github.com/Prem-Hanchate/Encryption_-_Decryption_Tool)** | AES encryption and decryption tool for secure text and file processing | Python | Cryptography |
+
+### 📚 **Security Research & Resources**
+
+| 🔐 Project | 💡 Description | 🛠️ Tech Stack | 🎯 Category |
+|:-----------|:---------------|:---------------|:------------|
+| **[HackerOne Reports](https://github.com/Prem-Hanchate/hackerone-reports)** | Curated collection of top disclosed vulnerability reports from the HackerOne platform | Python, Security Research | Vulnerability Research |
+
+</div>
+
+---
+
+<div align="center">
+
+### 📊 **Project Statistics**
+
+![Total Projects](https://img.shields.io/badge/Total%20Projects-8-blue?style=for-the-badge)
+![Primary Language](https://img.shields.io/badge/Primary%20Language-Python-green?style=for-the-badge)
+![Focus](https://img.shields.io/badge/Focus-Cybersecurity-red?style=for-the-badge)
+
 </div>
 
 <br>
