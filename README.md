@@ -125,16 +125,12 @@ PORT      STATE     SERVICE
 
 ### 🎯 **Performance Metrics**
 
-<table>
-<tr>
-<td>
-<img height="195em" src="https://github-readme-stats.vercel.app/api?username=Prem-Hanchate&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&rank_icon=github"/>
-</td>
-<td>
-<img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prem-Hanchate&layout=compact&langs_count=10&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&card_width=320"/>
-</td>
-</tr>
-</table>
+<a href="https://github.com/Prem-Hanchate">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Prem-Hanchate&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&ring_color=00ff41"/>
+</a>
+<a href="https://github.com/Prem-Hanchate">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prem-Hanchate&layout=compact&langs_count=8&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9"/>
+</a>
 
 </div>
 
@@ -144,8 +140,9 @@ PORT      STATE     SERVICE
 
 ### 🔥 **Contribution Streak & Activity**
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Prem-Hanchate&theme=chartreuse-dark&hide_border=true&background=0d1117&stroke=00ff41&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideNums=c9d1d9&sideLabels=c9d1d9&dates=8b949e" alt="GitHub Streak" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Prem-Hanchate&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&layout=compact" alt="Coding Stats" width="49%"/>
+<a href="https://github.com/Prem-Hanchate">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prem-Hanchate&theme=chartreuse-dark&hide_border=true&background=0d1117&stroke=00ff41&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideNums=c9d1d9&sideLabels=c9d1d9&dates=8b949e" alt="GitHub Streak Stats" />
+</a>
 
 </div>
 
@@ -155,7 +152,9 @@ PORT      STATE     SERVICE
 
 ### 📈 **Contribution Graph**
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Prem-Hanchate&theme=react-dark&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Activity%20Graph" width="98%"/>
+<a href="https://github.com/Prem-Hanchate">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Prem-Hanchate&theme=github-compact&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Activity%20Graph" width="95%"/>
+</a>
 
 </div>
 
@@ -165,7 +164,9 @@ PORT      STATE     SERVICE
 
 ## 🏆 **GitHub Achievements & Trophies**
 
-<img src="https://github-profile-trophy.vercel.app/?username=Prem-Hanchate&theme=matrix&no-frame=true&no-bg=true&column=4&row=2&margin-w=10&margin-h=10" width="90%"/>
+<a href="https://github.com/Prem-Hanchate">
+  <img src="https://github-profile-trophy.vercel.app/?username=Prem-Hanchate&theme=matrix&no-frame=true&no-bg=false&column=7&margin-w=5&margin-h=5&title=Stars,Followers,Commits,Repositories,Issues,PullRequest,MultiLanguage" />
+</a>
 
 </div>
 
@@ -173,114 +174,29 @@ PORT      STATE     SERVICE
 
 <div align="center">
 
-## 💻 **Tech Stack & Security Tools**
+### 📊 **Additional Statistics**
 
-### **Languages & Frameworks**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### **Security & Networking**
-![Scapy](https://img.shields.io/badge/Scapy-Network_Security-00ff41?style=for-the-badge)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-Port_Scanning-blue?style=for-the-badge)
-![OSINT](https://img.shields.io/badge/OSINT-Intelligence-orange?style=for-the-badge)
-![Penetration Testing](https://img.shields.io/badge/Pentesting-Security-red?style=for-the-badge)
-
-### **Tools & Platforms**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+<a href="https://github.com/Prem-Hanchate">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Prem-Hanchate&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&layout=compact" alt="Coding Stats" width="48%"/>
+</a>
+<a href="https://github.com/Prem-Hanchate">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prem-Hanchate&layout=pie&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9" alt="Language Distribution" width="48%"/>
+</a>
 
 </div>
 
 ---
 
 <div align="center">
-
-## 📊 **Profile Insights**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Prem-Hanchate&color=00ff41&style=for-the-badge&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/Prem-Hanchate?style=for-the-badge&color=00ff41&labelColor=0d1117)
-![Stars](https://img.shields.io/github/stars/Prem-Hanchate?style=for-the-badge&color=00ff41&labelColor=0d1117)
-
-</div>
-
----
-
-<div align="center">
-
-### 🌟 **Featured Repositories**
-
-[![DNS Spoofing Detection Tool](https://github-readme-stats.vercel.app/api/pin/?username=Prem-Hanchate&repo=DNS-Spoofing-Detection-Tool&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&icon_color=00ff41)](https://github.com/Prem-Hanchate/DNS-Spoofing-Detection-Tool)
-[![Security-Lab](https://github-readme-stats.vercel.app/api/pin/?username=Prem-Hanchate&repo=Security-Lab&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&icon_color=00ff41)](https://github.com/Prem-Hanchate/Security-Lab)
-
-[![Port Scanning](https://github-readme-stats.vercel.app/api/pin/?username=Prem-Hanchate&repo=Port_Scanning&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&icon_color=00ff41)](https://github.com/Prem-Hanchate/Port_Scanning)
-[![Advanced Google Operators](https://github-readme-stats.vercel.app/api/pin/?username=Prem-Hanchate&repo=Advanced-Google-Operators&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&icon_color=00ff41)](https://github.com/Prem-Hanchate/Advanced-Google-Operators)
-
-</div>
-
----
-
-<div align="center">
-
-## 🎖️ **Certifications & Skills**
-
-| 🔐 Security Domain | 📚 Skills | 🎯 Proficiency |
-|:-------------------|:----------|:---------------|
-| **Network Security** | DNS Analysis, Packet Sniffing, Traffic Monitoring | ![](https://geps.dev/progress/85) |
-| **Penetration Testing** | Port Scanning, Vulnerability Assessment, Exploitation | ![](https://geps.dev/progress/80) |
-| **OSINT** | Information Gathering, Reconnaissance, Google Dorking | ![](https://geps.dev/progress/90) |
-| **Cryptography** | AES Encryption, Secure Communication, Data Protection | ![](https://geps.dev/progress/75) |
-| **Application Security** | Password Security, Input Validation, Secure Coding | ![](https://geps.dev/progress/80) |
-| **Security Research** | Vulnerability Research, Report Analysis, Threat Intelligence | ![](https://geps.dev/progress/85) |
-
-</div>
-
----
-
-<div align="center">
-
-## 🐍 **Contribution Snake**
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Prem-Hanchate/Prem-Hanchate/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Prem-Hanchate/Prem-Hanchate/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Prem-Hanchate/Prem-Hanchate/output/github-contribution-grid-snake.svg">
-</picture>
-
-</div>
-
----
-
-<div align="center">
-
-### 📫 **Connect With Me**
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Prem-Hanchate)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/prem-hanchate)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/prem_hanchate)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:premhanchate@gmail.com)
-
-</div>
-
----
-
-<div align="center">
-
-### ⚡ **Fun Fact**
-
-*"In cybersecurity, it's not about being paranoid—it's about being prepared!"* 🛡️
-
-**Always Learning | Always Securing | Always Coding** 💻🔒
+![GitHub Followers](https://img.shields.io/github/followers/Prem-Hanchate?style=for-the-badge&color=00ff41&labelColor=0d1117&logo=github)
+![Total Stars](https://img.shields.io/github/stars/Prem-Hanchate?style=for-the-badge&color=00ff41&labelColor=0d1117&logo=github)
 
 </div>
 
 <br>
+
 
 ## 💭 **Hacker Mindset**
 
