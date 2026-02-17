@@ -119,8 +119,6 @@ PORT      STATE     SERVICE
 <br>
 ---
 
----
-
 ## **Threat Intelligence Dashboard**
 
 <div align="center">
@@ -156,7 +154,6 @@ PORT      STATE     SERVICE
 </div>
 
 <br>
-
 
 
 ## 💭 **Hacker Mindset**
