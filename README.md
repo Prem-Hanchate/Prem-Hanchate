@@ -25,7 +25,7 @@
 ## 🎯 **About Me**
 
 <div align="center">
-  <img src="./terminal.svg" alt="About Me Terminal" width="700"/>
+  <img src=".github/workflows/terminal.svg" alt="About Me Terminal" width="700"/>
 </div>
 <br>
 
