@@ -24,20 +24,11 @@
 
 ## 🎯 **About Me**
 
-```bash
-┌──(root💀kali)-[~/profile]
-└─$ cat about.txt
+## 🎯 **About Me**
 
-> I am *Prem Hanchate*, a penetration tester and security researcher driven by curiosity 
-> and the art of breaking systems ethically. My journey into cyber security began with understanding 
-> how systems fail and evolved into defending them.
-
-> I specialize in identifying vulnerabilities before adversaries do, automating security workflows,
-> and bridging the gap between offensive and defensive security operations.
-
-> My mission: Make the digital world more secure, one exploit at a time.
-> Currently exploring: Advanced exploitation techniques, threat intelligence, and security automation.
-```
+<div align="center">
+  <img src="./terminal.svg" alt="About Me Terminal" width="700"/>
+</div>
 <br>
 
 <div align="center">
