@@ -24,8 +24,6 @@
 
 ## 🎯 **About Me**
 
-## 🎯 **About Me**
-
 <div align="center">
   <img src="./terminal.svg" alt="About Me Terminal" width="700"/>
 </div>
