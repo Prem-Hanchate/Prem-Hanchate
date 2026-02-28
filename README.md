@@ -57,13 +57,13 @@ PORT      STATE     SERVICE
 
 <br>
 
-## 🚀 **Security Projects**
+## **Security Projects**
 
-## 🚀 **Security & Cybersecurity Projects Portfolio**
+## **Security & Cybersecurity Projects Portfolio**
 
 <div align="center">
 
-### 🛡️ **Network Security & Monitoring**
+### **Network Security & Monitoring**
 
 | 🔐 Project | 💡 Description | 🛠️ Tech Stack | 🎯 Category |
 |:-----------|:---------------|:---------------|:------------|
