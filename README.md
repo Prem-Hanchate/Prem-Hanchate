@@ -232,7 +232,7 @@ class EthicalHacker:
 
 <br>
 
-## 📊 **Activity Metrics**
+## **Activity Metrics**
 
 <div align="center">
   
