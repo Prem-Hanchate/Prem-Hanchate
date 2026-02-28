@@ -22,7 +22,7 @@
 
 <br>
 
-## 🎯 **About Me**
+## **About Me**
 
 <div align="center">
   <img src=".github/workflows/terminal.svg" alt="About Me Terminal" width="800"/>
