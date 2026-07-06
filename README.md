@@ -15,8 +15,6 @@
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hanchateprem@gmail.com)
   [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/prem07837)
   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hanchate_prem/)
-  [![Portfolio](https://shields.io)](https://premhanchate-.vercel.app/)
-  
   [![Portfolio](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://premhanchate-.vercel.app/)
   
   ![Profile Views](https://komarev.com/ghpvc/?username=Prem-Hanchate&color=00ff41&style=for-the-badge&label=SECURITY+SCANS)
