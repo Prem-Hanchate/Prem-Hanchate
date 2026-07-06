@@ -50,6 +50,7 @@ PORT      STATE     SERVICE
 22/tcp    open      ssh        | GitHub: github.com/Prem-Hanchate
 80/tcp    open      http       | LinkedIn: linkedin.com/in/prem-h-036304278
 443/tcp   open      https      | Email: hanchateprem@gmail.com
+443/tcp   open      https      | Portfolio: premhanchate-portfolio.vercel.app/
 3389/tcp  filtered  discord    | Discord: prem07837
 8080/tcp  open      instagram  | Instagram: @hanchate_prem
 ```
